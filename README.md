@@ -1,7 +1,7 @@
 - 👋 Hi! Here is yushengzh.
 - 👀 I’m interested in security & privacy,  machine learning and quantum computing. 
 - 🌱 I’m currently a Master student at USTC.
-- 📫 Contact with me by email: yszhao0717@gmail.com
+- 📫 Contact with me by email: zhaoyusheng.cs@gmail.com
 
 <!---
 yushengzh/yushengzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
